@@ -1,0 +1,23 @@
+version: 0
+
+actions:
+  - data_entity: category-template
+    source: data/import/starboard/category_template.csv
+  - data_entity: category
+    source: data/import/starboard/category.csv
+  - data_entity: product-attribute-key
+    source: data/import/starboard/product_attribute_key.csv
+  - data_entity: product-management-attribute
+    source: data/import/starboard/product_management_attribute.csv
+  - data_entity: product-abstract
+    source: data/import/starboard/product_abstract.csv
+  - data_entity: product-concrete
+    source: data/import/starboard/product_concrete.csv
+  - data_entity: product-image
+    source: data/import/starboard/product_image.csv
+  - data_entity: product-price
+    source: data/import/starboard/product_price.csv
+  - data_entity: product-abstract-store
+    source: data/import/starboard/product_abstract_store.csv
+  - data_entity: product-stock
+    source: data/import/starboard/product_stock.csv

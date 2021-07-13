@@ -1,0 +1,2 @@
+template_name,template_path
+Starboard (default),@CatalogPage/views/catalog/catalog2.twig
